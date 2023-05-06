@@ -5,5 +5,4 @@ describe('capitalize', () => {
       expect(capitalize('hello')).toEqual('Hello');
     });
 
-
 });

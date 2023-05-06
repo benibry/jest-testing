@@ -6,7 +6,7 @@ describe('reverseString', () => {
   });
 
   test('reverses multiple', () => {
-    expect(reverseString('ben premek maria chadi')).toEqual('idahc airam kemerp neb')
+    expect(reverseString('why Branko why')).toEqual('yhw oknarb yhw')
   })
 
 });

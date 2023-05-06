@@ -7,7 +7,7 @@ function analyzeArray (inputArray) {
 
     const objectArrayValues = {
         average: average,
-        maximun: maximum,
+        maximum: maximum,
         minimum: minimum,
         length: length
     }
